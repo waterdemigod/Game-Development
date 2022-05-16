@@ -1,0 +1,20 @@
+* 000000 [Engine] Log started at 2022/5/16 15:38:14
+* 000000 [Engine] This copy of the engine is git hash 9ffb87b4e47cbb627304762af2045ad960b0e94f, built on May  3 2022, at 12:56:40
+* 000000 [Engine] Platform: Windows
+* 000000 [Engine] 
+* 000000 [Engine] *******************************************************************************************
+* 000000 [Engine] *** This is the Standard license build!                                                 ***
+* 000000 [Engine] *** Get more with an Indie or Pro license such as C extensions, mobile dev, and VR dev! ***
+* 000000 [Engine] *** Details at http://dragonruby.org/toolkit/game#purchase                              ***
+* 000000 [Engine] *******************************************************************************************
+* 000000 [Engine] 
+- 000000 [Engine] Game ID: hello-SDL
+- 000000 [Engine] Game title: Update metadata/game_metadata.txt in your mygame directory to change this title.
+- 000000 [Engine] Game version: 1.0
+- 000000 [Engine] Game package ID: 
+- 000000 [Engine] Game Developer ID: dragonruby
+- 000000 [Engine] Game Developer title: DragonRuby LLC
+- 000000 [Engine] Production build: no
+? 000000 [Engine] RNG seed has been set to 1652729895.
+? 000000 [Engine] Marked app/main.rb for reload. (-1)
+* 000558 [Engine] Logging shutting down
